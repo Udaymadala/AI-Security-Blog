@@ -4,10 +4,6 @@
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
-## Standards & Frameworks
-- [NIST SP 800-61 Rev. 2 – Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-
 ## Threat Modeling
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 - [MITRE ATLAS – Adversarial ML Threat Landscape](https://atlas.mitre.org/)
