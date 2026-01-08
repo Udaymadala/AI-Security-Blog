@@ -16,6 +16,5 @@
 
 ## Identity & Access Management (IAM)
 
-- [NIST SP 800-63 – Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 - [NIST SP 800-207 – Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 - [MITRE ATT&CK – Credential Access Techniques](https://attack.mitre.org/tactics/TA0006/)
