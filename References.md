@@ -6,3 +6,6 @@
 - [Announcing a New Framework for Securing AI-Generated Code](https://blogs.cisco.com/ai/announcing-new-framework-securing-ai-generated-code)
 - [Empowering engineers with AI-enabled security code review](https://developer.arm.com/community/arm-community-blogs/b/ai-blog/posts/empowering-engineers-with-ai-enabled-security-code-review)
 - [The Future of Threat Detection & Response: Automation, AI, and the Shift Toward Proactive Security](https://www.stamus-networks.com/blog/the-future-of-threat-detection-response-automation-ai-and-the-shift-toward-proactive-security)
+- [Cyber Case Study: Colonial Pipeline Ransomware Attack](https://insurica.com/blog/colonial-pipeline-ransomware-attack/)
+- [AI-Driven Incident Response: Definition and Components](https://radiantsecurity.ai/learn/ai-incident-response/)
+- [Pros and Cons of AI in Cybersecurity](https://talion.net/blog/pros-and-cons-of-ai-in-cybersecurity/)
