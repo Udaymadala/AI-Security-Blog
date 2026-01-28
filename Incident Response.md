@@ -63,3 +63,26 @@ The attack triggered significant regulatory, legal, and policy fallout, includin
 Ingesting logs, forensic reports, emails, and meeting notes to auto-build a precise attack and response timeline, root‑cause analysis (e.g., initial access vector, control failures, decision points), and an executive summary for boards and regulators.
 
 Suggesting concrete control improvements—stronger MFA and credential hygiene, network segmentation between IT and OT, updated IR playbooks for ransomware in critical infrastructure—and updating detection logic and runbooks accordingly.
+
+## The Cons and Challenges of using AI in Incident Response:
+Along with the Pros and Advantages of AI there are some Cons as Follow,
+
+### 1. Accuracy, trust, and hallucinations:
+AI can misclassify threats, create false positives, or miss real attacks when data drifts or models are poorly tuned.
+LLMs may hallucinate investigations or summaries, causing analysts to chase fake leads or overlook actual IOCs if they trust the output too much.
+​
+### 2. Over‑automation and loss of control:
+Fully automated actions (isolate hosts, disable accounts, block domains) based only on probabilistic AI decisions can disrupt business or take down critical services.
+Over‑reliance on AI can create complacency, where human analysts stop questioning results and manual checks degrade over time.
+
+### 3. Data, bias, and adversarial manipulation:
+AI is only as good as its training and input data but if any bad, incomplete, or biased data leads to skewed triage and missed threats.
+Attackers can target AI itself (adversarial examples, data poisoning, prompt injection) to push it toward wrong classifications or noisy outputs during an incident.
+
+### 4. Integration, complexity, and cost:
+Integrating AI tools with legacy SIEM/SOAR/EDR stacks is technically complex and can add noise instead of clarity if not tuned well.
+Building and operating reliable AI in the SOC requires significant investment (licenses, infrastructure, MLOps) and people with both security and data/ML skills.
+
+### 5. Governance, privacy, and regulatory risk:
+Feeding sensitive logs, tickets, and user data into AI systems introduces privacy and compliance concerns, especially with third‑party or cloud models.
+There is still uncertainty around liability when AI contributes to a bad decision (e.g., missed breach, over‑blocking, or biased outcomes), which requires explicit governance and policies.
