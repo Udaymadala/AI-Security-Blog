@@ -1,5 +1,5 @@
 ## AI Security & Safety Blog
-This repository hosts a technical blog focused on the security and safety of modern AI systems and Agents.
+This repository hosts a technical blog focused on the security and safety using AI systems and Agents.
 The goal of this project is to analyze AI in Defensive Operations like securing Code, Infrastructure, threat modeling, incident response, GRC and IAM from the lens of traditional cybersecurity disciplines.
 The content is from a security engineer’s perspective and aims to bridge the gap between AI research and real-world senario risks.
 ---
