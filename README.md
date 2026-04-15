@@ -72,5 +72,7 @@ This repository contains independent research and analysis. All examples and sce
 
 Cybersecurity Engineer | AI & Security Researcher.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-sai-ram-madala-468623229/)
+
 
 This repository is intended to serve as a living research artifact documenting ongoing exploration into the defensive use of AI for securing modern systems.
